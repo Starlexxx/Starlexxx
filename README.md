@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Starlexxx
+- 👋 Hi! I’m @Starlexxx
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Ruby on Rails
 - 📫 You can text to me on telegram @Starlexx
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -17,15 +19,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![Starlexxx's github stats](https://github-readme-stats.vercel.app/api?username=Starlexxx&show_icons=true&theme=tokyonight)](https://github.com/Starlexxx)
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starlexxx&layout=compact&count_private=true&theme=tokyonight" />
-</p>
+### :fire: My Stats :
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Starlexxx" alt="https://github.com/Starlexxx" />
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Starlexxx&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starlexxx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Starlexxx/Starlexxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
