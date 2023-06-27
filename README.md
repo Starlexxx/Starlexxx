@@ -25,9 +25,11 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Starlexxx&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Starlexxx&theme=react)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starlexxx&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Starlexxx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Starlexxx&langs_count=8&layout=compact&theme=&theme=react&bg_color=1F222E&title_color=027d9c&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,Makefile,Scilab,Haml,SCSS,Cmake,Sass,Vue)](https://git.io/streak-stats)
+
+
 <!---
 Starlexxx/Starlexxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
