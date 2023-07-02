@@ -27,7 +27,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Starlexxx&theme=react)](https://git.io/streak-stats)
 
-[![Starlexxx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Starlexxx&langs_count=8&layout=compact&theme=&theme=react&bg_color=1F222E&title_color=027d9c&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,Makefile,Scilab,Haml,SCSS,Cmake,Sass,Vue)](https://git.io/streak-stats)
+[![Starlexxx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Starlexxx&langs_count=8&layout=compact&theme=react&bg_color=1f232a&title_color=61dafb&icon_color=ffffff&border_color=ffffff&hide=JavaScript,CSS,Java,HTML,Makefile,Scilab,Haml,SCSS,Cmake,Sass,Vue)](https://git.io/streak-stats)
 
 
 <!---
